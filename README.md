@@ -33,13 +33,14 @@
 <img src='./Projects/Foto1.JPG'alt="foto1" width="400" height="200">
 <img src='./Projects/Foto2.JPG'alt="foto2" width="400" height="200">
 </p>
-<p style='font-size:20px' align='center'>
+<h3 align='center'>
 <b> Project full stack ~ Front-end , Back-End and DB</b> <br><br>
-Made with React, Redux, Js , Express, Sequelize - Postgres, CSS and HTML</p>
-<br>
-<h1 align='center'> Weather App ⛅<br><h1>
+Made with React, Redux, Js , Express, Sequelize - Postgres, CSS and HTML</h3>
+<hr/><br>
+<h1 align='center'> Weather App ⛅<h1><br>
 <p align='center'>
 <img src='./Projects/weatherapp.JPG' alt="wea" width="400" height="200"></p>
-<p style='font-size:20px' align='center'>
+<h3 align='center'>
 <b> Project Front-End </b><br><br>
-Made with React, Redux, Css and Html </p>
+Made with React, Redux, Css and Html </h3>
+<hr/>
