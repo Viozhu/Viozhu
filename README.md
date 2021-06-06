@@ -43,6 +43,6 @@ Made with React, Redux, Js , Express, Sequelize - Postgres, CSS and HTML</h3>
 <h3 align='center'>
 <b> Project Front-End </b><br><br>
  
-Made with React, Redux, Css and Html </h3><br>
-   <a href='https://weather-app-viozhu.netlify.app/'>Check it!<a/>
+Made with React, Redux, Css and Html<br>
+   <a href='https://weather-app-viozhu.netlify.app/'>Check it!<a/> </h3>
 <hr/>
