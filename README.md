@@ -42,5 +42,6 @@ Made with React, Redux, Js , Express, Sequelize - Postgres, CSS and HTML</h3>
 <img src='./Projects/weatherapp.JPG' alt="wea" width="400" height="200"></p>
 <h3 align='center'>
 <b> Project Front-End </b><br><br>
+  <a href='https://weather-app-viozhu.netlify.app/'>Check it!<a/>
 Made with React, Redux, Css and Html </h3>
 <hr/>
