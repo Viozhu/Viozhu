@@ -28,6 +28,15 @@
 <hr>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viozhu&show_icons=true&locale=en" alt="viozhu" /></p>
 <hr><br>
+<h1 align='center'> e-conomy 💵<h1><p align='center'><br>
+<img src='./Projects/unknown.png'alt="fot0" width="400" height="200">
+<img src='./Projects/eco2.JPG'alt="fot1" width="400" height="200">
+<img src='./Projects/eco 1.JPG'alt="fot2" width="400" height="200">
+</p>
+<h3 align='center'>
+<b> Project e-conomy (finnance and e-comerce app) <br>Front-end</b> <br><br>
+Made with React, Redux, Js , bootstrap, CSS and HTML</h3>
+<hr/><br>
 <h1 align='center'> 👩‍🍳 Be your Own Chef 👨‍🍳<h1><p align='center'><br>
 <img src='./Projects/foto0.JPG'alt="foto0" width="400" height="200">
 <img src='./Projects/Foto1.JPG'alt="foto1" width="400" height="200">
