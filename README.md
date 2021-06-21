@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jorge Ignacio</h1>
 <h3 align="center">Web designer and Full-Stack Developer, Front-end lover.</h3>
 
-- 💰 I’m currently working on a **project called FinanceApp for the Henry bootcamp**
 
-- 🌱 I’m currently learning **this stack and i graduated as Full-Stack Developer!**
+- 🌱 I’m graduated as Full-Stack Developer!**
 
 - 👯 I’m looking to collaborate on **challenging tasks**
 
