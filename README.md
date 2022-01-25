@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **challenging tasks**
 
-- 👨‍💻 All of my projects are available at [https://viozhu.github.io/](https://viozhu.github.io/)
+- 👨‍💻 All of my projects are available at [https://jorgeignaciogaray.netlify.app/](Here!)
 
 - 💬 Ask me about **anything Im here 😁**
 
