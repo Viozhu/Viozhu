@@ -1,16 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jorge Ignacio</h1>
 <h3 align="center">Web designer and Full-Stack Developer, Front-end lover.</h3>
 
+<p align="center">
+Front-end lover with over two years of experience using different technologies looking for opportunities to seize new trends. I’m able to work under pressure, taking advantage of all resources available or looking for new ones in order to creatively solve potential issues. I’m comfortable with deadlines and team work. In my experience, I’ve managed to gather information so as to compare and improve apps employing several tools.
+ </p>
 
-- 🌱 I’m graduated as Full-Stack Developer!**
-
-- 👯 I’m looking to collaborate on **challenging tasks**
-
-- 👨‍💻 All of my projects are available at [Here!](https://jorgeignaciogaray.netlify.app/)
-
-- 💬 Ask me about **anything Im here 😁**
-
-- 📫 How to reach me **garayjorgeignacio@gmail.com**
 
 <hr/>
 <h3 align="center">Connect with me:</h3>
