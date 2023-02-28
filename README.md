@@ -19,7 +19,7 @@
 <a href='https://mail.google.com/a/?view=cm&fs=1&to=garayjorgeignacio@gmail.com'><img src="./iconos/gmail.png" alt="gmail" width="40" height="40"/></a>    
 <a href='https://wa.me/5493434592663?text=Hi!%20I%20saw%20your%20portafolio'><img src="./iconos/whatsapp.png" alt="whtsapp" width="40" height="40"/>
 </a>    
-<a href='https://viozhu.github.io/'><img src="./iconos/web.png" alt="whtsapp" width="40" height="40"/></a>
+<a href='https://jorgeignaciogaray.netlify.app/'><img src="./iconos/web.png" alt="whtsapp" width="40" height="40"/></a>
 
 <hr/>
 <h3 align="center">Languages and Tools:</h3>
